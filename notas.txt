@@ -1,2 +1,3 @@
 Y ahora me lo cargo todo, hala! 
 ya estoy en la rama pruebas 
+He metido un remoto, con git remote add origin y la url primero para crearlo y git push -u origin master y se h conectado 
